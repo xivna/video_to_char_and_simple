@@ -1,0 +1,2 @@
+# video_to_char_and_simple
+非常简单的视频转字符动画的python程序，并且有详细的备注说明，只要你看就一定能懂。
